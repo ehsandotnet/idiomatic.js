@@ -1,4 +1,4 @@
-اصول نوشنت همگام جاوااسکریپت اصطلاحی# 
+#اصول نوشنت همگام جاوااسکریپت اصطلاحی 
 
 
 ## This is a living document and new ideas for improving the code around us are always welcome. Contribute: fork, clone, branch, commit, push, pull request.
